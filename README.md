@@ -84,13 +84,13 @@ Enter a new greeting message and click the "Change" button. The greeting message
 # Help
 ## Common Issues
 
-Metamask not connected:
+- Metamask not connected:
 Ensure Metamask is installed and connected to the correct network. You may need to add the local Hardhat network manually in Metamask.
 
-Contract not deployed:
+- Contract not deployed:
 Make sure the Hardhat node is running and the contract is deployed. Check the console for any deployment errors.
 
-Transaction errors:
+- Transaction errors:
 Ensure you have sufficient funds in your Metamask account and that you are interacting with the correct contract address.
 
 Running Helper Commands
