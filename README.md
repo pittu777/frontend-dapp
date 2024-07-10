@@ -50,19 +50,57 @@ Running the Hardhat Local Blockchain
 
 ## Start the local Hardhat node:
 
-### npx hardhat node
+#### npx hardhat node
 
 ## Deploy the contract:
 
-### npx hardhat run scripts/sample-script.js --network localhost
+#### npx hardhat run scripts/sample-script.js --network localhost
 
 ## Running the Client Application
 
 ## Start the React application:
 
-### cd client
-### npm start
+#### cd client
+#### npm start
 
+## Open the application:
+
+Open http://localhost:3000 in your web browser.
+
+Using the Application
+
+Connect Metamask:
+
+Ensure Metamask is connected to the local Hardhat network.
+
+Deposit Ether:
+
+Enter the amount of Ether you want to deposit and click the "Deposit" button. The contract balance will update accordingly.
+
+Set Greeting:
+
+Enter a new greeting message and click the "Change" button. The greeting message displayed will update.
+
+# Help
+## Common Issues
+
+Metamask not connected:
+Ensure Metamask is installed and connected to the correct network. You may need to add the local Hardhat network manually in Metamask.
+
+Contract not deployed:
+Make sure the Hardhat node is running and the contract is deployed. Check the console for any deployment errors.
+
+Transaction errors:
+Ensure you have sufficient funds in your Metamask account and that you are interacting with the correct contract address.
+
+Running Helper Commands
+To display help information:
+
+
+#### npx hardhat help
+
+Authors
+PITTU PRASANTH - @pittu777
 
 
 
