@@ -25,12 +25,16 @@ Install dependencies for the client:
 
 
 cd client
-#### npm install
+```js
+npm install
+```
 Install dependencies for the contract:
 
 
 cd contract
-#### npm install
+```js
+npm install
+```
 Configuration
 Ensure you have the correct configuration for the Hardhat network in hardhat.config.js. Here is an example configuration:
 
@@ -50,18 +54,24 @@ Running the Hardhat Local Blockchain
 
 ## Start the local Hardhat node:
 
-#### npx hardhat node
+```js
+npx hardhat node
+```
 
 ## Deploy the contract:
 
-#### npx hardhat run scripts/sample-script.js --network localhost
+```js
+npx hardhat run scripts/sample-script.js --network localhost
+```
 
 ## Running the Client Application
 
 ## Start the React application:
 
 #### cd client
-#### npm start
+```js
+npm start
+```
 
 ## Open the application:
 
@@ -91,7 +101,9 @@ Running Helper Commands
 To display help information:
 
 
-#### npx hardhat help
+```js
+npx hardhat help
+```
 
 Authors
 PITTU PRASANTH - @pittu777
