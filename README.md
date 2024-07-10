@@ -69,17 +69,11 @@ Open http://localhost:3000 in your web browser.
 
 Using the Application
 
-Connect Metamask:
+- Connect Metamask: Ensure Metamask is connected to the local Hardhat network.
 
-Ensure Metamask is connected to the local Hardhat network.
+- Deposit Ether: Enter the amount of Ether you want to deposit and click the "Deposit" button. The contract balance will update accordingly.
 
-Deposit Ether:
-
-Enter the amount of Ether you want to deposit and click the "Deposit" button. The contract balance will update accordingly.
-
-Set Greeting:
-
-Enter a new greeting message and click the "Change" button. The greeting message displayed will update.
+- Set Greeting: Enter a new greeting message and click the "Change" button. The greeting message displayed will update.
 
 # Help
 ## Common Issues
