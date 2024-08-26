@@ -19,8 +19,7 @@ Installing
 Clone the repository:
 
 
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone (https://github.com/pittu777/frontend-dapp.git)
 Install dependencies for the client:
 
 
